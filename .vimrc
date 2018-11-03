@@ -6,3 +6,5 @@ syntax off
 
 set visualbell
 set t_vb=
+
+hi visual ctermbg=darkblue
